@@ -1,1 +1,1 @@
-# odin-rps
+Rock Paper Sciessors project for Odin.
